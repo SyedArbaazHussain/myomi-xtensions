@@ -8,7 +8,7 @@ Source _rocksmangaSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/ar/rocksmanga/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/main/dart/manga/multisrc/madara/src/ar/rocksmanga/icon.png",
   dateFormat: "MMMM d, yyyy",
   dateFormatLocale: "ar",
 );

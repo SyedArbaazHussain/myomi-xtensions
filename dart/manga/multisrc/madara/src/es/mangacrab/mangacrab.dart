@@ -8,7 +8,7 @@ Source _mangacrabSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/es/mangacrab/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/main/dart/manga/multisrc/madara/src/es/mangacrab/icon.png",
   dateFormat: "dd/MM/yyyy",
   dateFormatLocale: "es",
 );

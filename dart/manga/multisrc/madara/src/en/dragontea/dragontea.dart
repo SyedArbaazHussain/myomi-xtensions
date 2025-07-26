@@ -8,7 +8,7 @@ Source _dragonteaSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/en/dragontea/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/main/dart/manga/multisrc/madara/src/en/dragontea/icon.png",
   dateFormat: "MM/dd/yyyy",
   dateFormatLocale: "en_us",
 );

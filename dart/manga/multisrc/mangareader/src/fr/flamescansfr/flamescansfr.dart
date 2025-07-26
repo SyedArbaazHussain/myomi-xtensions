@@ -8,7 +8,7 @@ Source _flamescansfrSource = Source(
   isNsfw: false,
   typeSource: "mangareader",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangareader/src/fr/flamescansfr/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/$branchName/dart/manga/multisrc/mangareader/src/fr/flamescansfr/icon.png",
   dateFormat: "MMMM d, yyyy",
   dateFormatLocale: "fr",
 );

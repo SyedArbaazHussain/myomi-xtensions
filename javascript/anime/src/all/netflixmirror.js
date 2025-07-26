@@ -4,7 +4,7 @@ const mangayomiSources = [{
     "lang": "all",
     "baseUrl": "https://netfree2.cc",
     "apiUrl": "https://netfree2.cc",
-    "iconUrl": "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/javascript/icon/all.netflixmirror.png",
+    "iconUrl": "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/main/javascript/icon/all.netflixmirror.png",
     "typeSource": "single",
     "itemType": 1,
     "version": "0.3.4",

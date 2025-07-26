@@ -8,7 +8,7 @@ Source _atikrostSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/tr/atikrost/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/main/dart/manga/multisrc/madara/src/tr/atikrost/icon.png",
   dateFormat: "d MMMM yyyy",
   dateFormatLocale: "tr",
 );

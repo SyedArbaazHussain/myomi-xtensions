@@ -9,7 +9,7 @@ Source _mangagalaxySource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/en/mangagalaxy/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/$branchName/dart/manga/multisrc/madara/src/en/mangagalaxy/icon.png",
   dateFormat: "MM/dd/yyyy",
   dateFormatLocale: "en_us",
 );

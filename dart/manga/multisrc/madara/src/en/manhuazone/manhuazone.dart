@@ -9,7 +9,7 @@ Source _manhuazoneSource = Source(
 
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/madara/src/en/manhuazone/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/$branchName/dart/manga/multisrc/madara/src/en/manhuazone/icon.png",
   dateFormat: "MMM d, yyyy",
   dateFormatLocale: "en_us",
 );

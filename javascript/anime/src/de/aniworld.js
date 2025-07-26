@@ -3,7 +3,7 @@ const mangayomiSources = [{
     "lang": "de",
     "baseUrl": "https://aniworld.to",
     "apiUrl": "",
-    "iconUrl": "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/javascript/icon/de.aniworld.png",
+    "iconUrl": "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/main/javascript/icon/de.aniworld.png",
     "typeSource": "single",
     "itemType": 1,
     "isNsfw": false,

@@ -8,7 +8,7 @@ Source _daprobSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/es/daprob/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/main/dart/manga/multisrc/madara/src/es/daprob/icon.png",
   dateFormat: "dd/MM/yyy",
   dateFormatLocale: "en",
 );

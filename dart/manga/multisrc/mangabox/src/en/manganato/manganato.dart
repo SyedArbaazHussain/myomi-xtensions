@@ -8,7 +8,7 @@ Source _manganatoSource = Source(
   lang: "en",
   typeSource: "mangabox",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangabox/src/en/manganato/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/$branchName/dart/manga/multisrc/mangabox/src/en/manganato/icon.png",
   dateFormat: "MMM dd,yy",
   dateFormatLocale: "en",
 );

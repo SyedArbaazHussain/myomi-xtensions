@@ -8,7 +8,7 @@ Source _yubikiriSource = Source(
   isNsfw: false,
   typeSource: "madara",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/dart/manga/multisrc/madara/src/id/yubikiri/icon.png",
+      "https://raw.githubusercontent.com/SyedArbaazHussain/myomi-xtensions/main/dart/manga/multisrc/madara/src/id/yubikiri/icon.png",
   dateFormat: "d MMMM",
   dateFormatLocale: "en",
 );
