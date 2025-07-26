@@ -28,7 +28,7 @@ void genManga(List<Source> jsMangasourceList) {
       .toList();
   final jsonString = jsonEncode(jsonList);
 
-  final file = File('index.json');
+  final file = File('manga_index.json');
   file.writeAsStringSync(jsonString);
 
   log('JSON file created: ${file.path}');
